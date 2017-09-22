@@ -6,7 +6,7 @@
 
 int solution[MAX_DEPTH]; // list of move to solve the 8 puzzle
 int nbMinMoves; // number of minimal moves to solve the problem
-int grid[9]; // grid representing puzzle
+int grid[9]; // grid representing puzzle 
 int depth;
 int nodesGenerated; // Total of nodes generated to find the solution
 
