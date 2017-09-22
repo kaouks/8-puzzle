@@ -1,7 +1,7 @@
 # 8-puzzle
 
-This project aims to develop a solution for the 8 puzzle problem using 3 path finding and graph traversal algorithms:
-1- Breadth First Search algorithm (BFS)
+This project aims to develop a solution for the 8 puzzle problem using 3 path finding and graph traversal algorithms:__
+1- Breadth First Search algorithm (BFS)__
 2- A Star algorithm (A*)
 
 ## Problem Statement
